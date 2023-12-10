@@ -1,4 +1,4 @@
-# klinik_app
+# mySch
 
 A new Flutter project.
 
